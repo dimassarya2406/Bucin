@@ -1,0 +1,54 @@
+.judul{
+    font-family: 'Times New Roman', Times, serif;
+}
+fieldset{
+        padding-left: 70px;
+    text-align: center;
+    margin: 30px 30%;
+}
+
+.Namaby{
+    padding-left: 30px;
+    padding-right: 90px;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.return{
+    padding-left: 70px;
+    text-align: center;
+    padding-right: 65px;
+}
+
+.Namabby{
+    margin: 30px;
+        padding-left: 30px;
+        padding-right: 90px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.halo{
+    padding-left: 30px;
+    padding-right: 90px;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.gambar1{
+    margin: 10px;
+}
+.jawab{
+    font-size: 20px;
+
+}
+.pilih1{
+    font-size: 20px;
+    text-align: center;
+}
+.pilih{
+    font-size: 20px;
+    text-align: center;
+}
